@@ -11,7 +11,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-<div style="text-align:center"><img src="./images/entrevista_url.png" width="400"/></div>
+<div align="center"><img src="./images/entrevista_url.gif" width="400"/></div>
 
 ### Testes
 
